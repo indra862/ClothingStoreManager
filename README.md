@@ -1,2 +1,2 @@
 # ClothingStoreManager
-POS for your clothing business successfully!
+POS for your clothing business
